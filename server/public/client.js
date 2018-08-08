@@ -1,3 +1,8 @@
 console.log('JS');
-let myApp = angular.module('myApp', []);
+let foodApp = angular.module('foodApp', []);
 
+foodApp.controller('foodController', function(){
+    let jc = this;
+    self.message = "Foooooooooooooooood";
+
+})
