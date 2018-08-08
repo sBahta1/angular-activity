@@ -1,0 +1,23 @@
+{
+  "name": "angular-activity",
+  "version": "1.0.0",
+  "description": "[ ] Create a static server from scratch, get a webpage on the DOM with AngularJS sourced, a la the lecture. This should be up and running on localhost:5000.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sBahta1/angular-activity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sBahta1/angular-activity/issues"
+  },
+  "homepage": "https://github.com/sBahta1/angular-activity#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
